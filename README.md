@@ -1,5 +1,5 @@
 # Covid-19-Data-Analysis
-Analyzing covid19 cases data and creating dashboard
+Analyzing covid19 cases data and creating dashboard.
 
 Dashboard:
 ![Covid overview dashboard](https://user-images.githubusercontent.com/31538546/179422205-5292f643-66e8-4c19-9428-99994d226e4b.png)
